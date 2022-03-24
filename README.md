@@ -1,2 +1,2 @@
 # love-javascript
-a project in javasript
+a project in javascript
